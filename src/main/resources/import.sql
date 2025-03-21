@@ -1,0 +1,5 @@
+INSERT INTO tb_person(name, address, phone_number, description) VALUES ('Felipe Souza', 'Rua das Flores, 123, São Paulo, SP', '(11) 98765-4321', 'Entusiasta de tecnologia e música');
+INSERT INTO tb_person(name, address, phone_number, description) VALUES ('Ana Clara Silva', 'Av. Paulista, 456, São Paulo, SP', '(11) 91234-5678', 'Amante de livros e viagens');
+INSERT INTO tb_person(name, address, phone_number, description) VALUES ('Carlos Oliveira', 'Rua Ametista, 789, Campinas, SP', '(19) 99876-5432', 'Especialista em marketing digital');
+INSERT INTO tb_person(name, address, phone_number, description) VALUES ('Mariana Santos', 'Rua das Palmeiras, 321, Jundiaí, SP', '(11) 97654-1234', 'Designer de interiores apaixonada');
+INSERT INTO tb_person(name, address, phone_number, description) VALUES('Pedro Almeida', 'Av. das Nações, 654, São José dos Campos, SP', '(12) 98765-6789', 'Engenheiro de software com foco em IA');
